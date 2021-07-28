@@ -1,0 +1,25 @@
+.header{
+  display: flex;
+  
+}
+.photo{
+  width: 200px;
+  height: 300px;
+}
+.about_me{
+  padding-left:30px;
+  
+}
+table, th, td {
+   border: 1px solid black;
+}
+table{
+  width: 100%;
+}
+.footer{
+  display: flex;
+  
+}
+.footer1{
+    padding-right: 15%;
+}
